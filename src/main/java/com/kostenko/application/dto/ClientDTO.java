@@ -1,6 +1,5 @@
 package com.kostenko.application.dto;
 
-import jakarta.validation.constraints.AssertTrue;
 import jakarta.validation.constraints.Email;
 import lombok.Getter;
 import lombok.Setter;

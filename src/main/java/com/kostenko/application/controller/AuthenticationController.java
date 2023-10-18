@@ -2,7 +2,6 @@ package com.kostenko.application.controller;
 
 import com.kostenko.application.dto.ClientDTO;
 import com.kostenko.application.service.ClientService;
-import jakarta.validation.Valid;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
